@@ -1,5 +1,5 @@
-ProtosQC
-========
+UX Prototyping
+==============
 
 Bouncy Animation iOS Sign In Form
 ---------------------------------
